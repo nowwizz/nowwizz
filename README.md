@@ -41,7 +41,8 @@
   <h2>🧑‍🤝‍🧑 Team Feedback</h2>
   <div align="left" style="max-width:700px;margin:0 auto;">
     <p>👤 다른 팀과 소통할 때 <strong>공감하고 함께 고민하며 의견을 내 주어서 든든</strong>했다.</p>
-    <p>👤 <strong>자신의 생각을 주저 없이 표현하고</strong>, <strong>부족한 부분을 꾸준히 개선하려는 태도</strong>가 인상적이며, <strong>믿고 함께할 수 있는 사람</strong>이다.</p>
+    <p>👤 <strong>자신의 생각을 주저 없이 표현하고</strong>, <strong>부족한 부분을 꾸준히 개선하려는 태도</strong>가 인상적이며, <strong>믿고 함께할 수 있는 사람</strong>이다.</p><br />
+    <div align="center"><h3>✨ 분위기를 편안하게 만드는, 없어서는 안 될 믿음직한 구성원이 되기 위해 노력하고 있습니다!</h3></div>
   </div>
 
 </div>
