@@ -9,9 +9,11 @@
   <h3>🌱 생동감과 부드러움을 좋아하는 프론트엔드 개발자, 유지원입니다.</h3>
     <p>깊은 집중력으로 사용자 경험을 세심하게 분석하고, 이를 바탕으로 더 나은 방향을 고민하고 제시합니다.</p>
     <p>팀원들의 분위기와 의견을 수용해 전체 흐름을 생각하고, 상황에 맞게 유연하게 대처하는 <strong>물과 같은 사람</strong>💧입니다.</p>
-  <h2>💻 Skill</h2>
+
+  <h2>📕 Studying...</h2>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </p>
