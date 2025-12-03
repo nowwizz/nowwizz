@@ -26,16 +26,13 @@
 
   <h2>📊 Status</h2>
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwizz&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" alt="Top languages" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api?username=nowwizz&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" alt="GitHub stats" />
+    <a href="https://solved.ac/wi1767">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wi1767" alt="Solved.ac프로필">
     </a>
   </p>
   <p>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowwizz&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%" alt="GitHub activity graph" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwizz&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" alt="Top languages" />
     </a>
   </p>
 
